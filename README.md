@@ -22,18 +22,18 @@ Subject는 총 3가지로 이루어져 있으며, 각 Subject는 여러개의 �
 2. SQL 기본 및 활용
 3. SQL 고급 활용 및 튜닝
 
-### Subject 1
+### 데이터 모델링
 
 - Chapter 1-1. [데이터 모델링의 이해](./subject_1/chapter_1_1/데이터_모델링의_이해.md)
 - Chapter 1-2. 데이터 모델과 성능
 
-### Subject 2
+### SQL 기본 및 활용
 
 - Chapter 2-1. SQL 기본
 - Chapter 2-2. SQL 활용
 - Chapter 2-3. SQL 최적화 기본 원리
 
-### Subject 3
+### SQL 고급 활용 및 튜닝
 
 - Chapter 3-1. 아키텍처 기반 튜닝 원리
 - Chapter 3-2. Lock과 트랜잭션 동시성 제어
