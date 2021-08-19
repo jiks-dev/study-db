@@ -1,5 +1,7 @@
 [![SQLD Badge](https://img.shields.io/badge/-SQLD-brightgreen)](https://www.dataq.or.kr/www/sub/a_04.do)
-[![SQLP Badge](https://img.shields.io/badge/-SQLP-091e63)](https://www.dataq.or.kr/www/sub/a_03.do)
+[![SQLP Badge](https://img.shields.io/badge/-SQLP-091e63)](https://www.dataq.or.kr/www/sub/a_03.do)  
+
+총 진척률(1/10): ![10%](https://progress-bar.dev/10)
 
 # study-db
 
@@ -16,13 +18,13 @@
 
 Subject는 총 3가지로 이루어져 있으며, 각 Subject는 여러개의 서브 Chapter로 구성되어있습니다.
 
-1. [데이터 모델링](./subject_1/chapter_1_1/데이터_모델링의_이해.md)
+1. 데이터 모델링
 2. SQL 기본 및 활용
 3. SQL 고급 활용 및 튜닝
 
 ### Subject 1
 
-- Chapter 1-1. 데이터 모델링의 이해
+- Chapter 1-1. [데이터 모델링의 이해](./subject_1/chapter_1_1/데이터_모델링의_이해.md)
 - Chapter 1-2. 데이터 모델과 성능
 
 ### Subject 2
